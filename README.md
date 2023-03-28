@@ -1,6 +1,6 @@
 ![MasterHead](https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-71-1.webp)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=violet&width=435&lines=Welcome++to++My+Github+Profile;I+am+passionate+about++Data+Analytics+;and++Data++Visualization;Always+Exploring+New+Things...;View+my++projects+below" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=violet&width=435&lines=Welcome++to++My+Github+Profile;I+am+passionate+about++Data+Analytics+;and++Data++Visualization;Always+Exploring+New+Stuff...;View+my++projects+below" alt="Typing SVG" /></a>
 
 
 

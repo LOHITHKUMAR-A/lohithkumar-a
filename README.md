@@ -1,12 +1,22 @@
+![MasterHead](https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-71-1.webp)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=violet&width=435&lines=Welcome++to++My+Github+Profile;I+am+passionate+about++Data+Analytics+;and++Data++Visualization;Always+Exploring+New+Things...;View+my++projects+below" alt="Typing SVG" /></a>
+
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm Lohith Kumar A</h1>
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lohithkumar-a&label=Profile%20views&color=0e75b6&style=flat" alt="lohithkumar-a" /> </p>
 
-- 🔭 I’m currently working on **SQL, Python, Power BI, and ETL Tools**
 
-- 🌱 I’m currently learning **Machine Learning and Python**
+- 🌱 I’m currently learning **Machine Learning and Web Scraping**
+
+- 💬 Ask me about **SQL, Python, Power BI,Excel and EDA**
 
 - 👯 I’m looking to collaborate on **Datasets for Analysis and Visualization projects**
 
@@ -14,17 +24,27 @@
 
 - ⚡ Fun fact **Explore**
 
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lohith kumar a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lohith kumar a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lohith_kumar_a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lohith_kumar_a" height="30" width="40" /></a>
+<a href="https://www.novypro.com/profile_projects/lohithkumara" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lka999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun-chauhan-ab74a0138" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/lohithkumara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="t0runkum0r" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lohith_kumar_a?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarunku799" height="30" width="40" /></a>
 </p>
 
+
+
+
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer""> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lohithkumar-a&show_icons=true&locale=en&layout=compact" alt="lohithkumar-a" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lohithkumar-a&show_icons=true&locale=en" alt="lohithkumar-a" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lohithkumar-a&" alt="lohithkumar-a" /></p>
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/194bc176c0b3f2ef01a883ff206499b86c5ce72f/assets/Bottom_down.svg" width="4000" height="250" />

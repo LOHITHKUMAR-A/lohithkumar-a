@@ -11,8 +11,10 @@
 <h3 align="center">A passionate Data Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lohithkumar-a&label=Profile%20views&color=0e75b6&style=flat" alt="lohithkumar-a" /> </p>
 
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lohithkumar-a&label=Profile%20views&color=0e75b6&style=flat" alt="lohithkumar-a" /> </p>
+-->
 
 - 🌱 I’m currently learning **Machine Learning and Web Scraping**
 

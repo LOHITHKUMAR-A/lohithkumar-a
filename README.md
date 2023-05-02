@@ -1,4 +1,4 @@
-![MasterHead](https://healthyresumes.com/wp-content/uploads/2022/10/LinkedIn-Background-Photo-71-1.webp)
+![MasterHead](https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=violet&width=435&lines=Welcome++to++My+Github+Profile;I+am+passionate+about++Data+Analytics+;and++Data++Visualization;Always+Exploring+New+Stuff...;View+my++projects+below" alt="Typing SVG" /></a>
 
@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Lohith Kumar A</h1>
-<h3 align="center">A passionate Data Enthusiast from India</h3>
+<!-- <h3 align="center">A passionate Data Enthusiast from India</h3>  -->
 <img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2020/09/rt.gif">
 
 
